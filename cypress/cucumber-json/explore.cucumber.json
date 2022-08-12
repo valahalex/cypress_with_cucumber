@@ -1,0 +1,123 @@
+[
+  {
+    "description": "    Feature User go to to explore product by cicking button",
+    "keyword": "Feature",
+    "name": "Explore product button",
+    "line": 1,
+    "id": "explore-product-button",
+    "tags": [],
+    "uri": "explore.feature",
+    "elements": [
+      {
+        "id": "explore-product-button;click-on-explore-product-button",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "Click on explore product button",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "A user open site page",
+            "result": {
+              "status": "passed",
+              "duration": 3627000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "A user clicks on green button",
+            "result": {
+              "status": "passed",
+              "duration": 254000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "A user clicks on explore product button",
+            "result": {
+              "status": "passed",
+              "duration": 338000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "A user will go to explore product page with label \"Products\"",
+            "result": {
+              "status": "passed",
+              "duration": 2399000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "explore-product-button;go-to-see-a-price-of-some-product",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "Go to see a price of some product",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "A user open site page",
+            "result": {
+              "status": "passed",
+              "duration": 5950000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "A user clicks on explore product button",
+            "result": {
+              "status": "passed",
+              "duration": 359000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "A user clicks on sms button",
+            "result": {
+              "status": "passed",
+              "duration": 4936000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 15,
+            "name": "A user clicks on See sms pricing button",
+            "result": {
+              "status": "passed",
+              "duration": 4266000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "A user will go to page with pricing and it will have the label \"Messaging pricing\"",
+            "result": {
+              "status": "passed",
+              "duration": 2572000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
