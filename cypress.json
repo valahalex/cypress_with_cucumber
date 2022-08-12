@@ -1,0 +1,5 @@
+{
+    "baseUrl":"https://telnyx.com",
+    "chromeWebSecurity": false,
+    "testFiles": "**/*.feature"
+}
