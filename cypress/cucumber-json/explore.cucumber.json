@@ -23,7 +23,7 @@
             "name": "A user open site page",
             "result": {
               "status": "passed",
-              "duration": 3627000000
+              "duration": 2886000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "A user clicks on green button",
             "result": {
               "status": "passed",
-              "duration": 254000000
+              "duration": 397000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "A user clicks on explore product button",
             "result": {
               "status": "passed",
-              "duration": 338000000
+              "duration": 724000000
             }
           },
           {
@@ -53,7 +53,7 @@
             "name": "A user will go to explore product page with label \"Products\"",
             "result": {
               "status": "passed",
-              "duration": 2399000000
+              "duration": 2674000000
             }
           }
         ]
@@ -73,7 +73,7 @@
             "name": "A user open site page",
             "result": {
               "status": "passed",
-              "duration": 5950000000
+              "duration": 7784000000
             }
           },
           {
@@ -83,7 +83,7 @@
             "name": "A user clicks on explore product button",
             "result": {
               "status": "passed",
-              "duration": 359000000
+              "duration": 336000000
             }
           },
           {
@@ -93,7 +93,7 @@
             "name": "A user clicks on sms button",
             "result": {
               "status": "passed",
-              "duration": 4936000000
+              "duration": 4212000000
             }
           },
           {
@@ -103,7 +103,7 @@
             "name": "A user clicks on See sms pricing button",
             "result": {
               "status": "passed",
-              "duration": 4266000000
+              "duration": 3573000000
             }
           },
           {
@@ -113,7 +113,7 @@
             "name": "A user will go to page with pricing and it will have the label \"Messaging pricing\"",
             "result": {
               "status": "passed",
-              "duration": 2572000000
+              "duration": 2529000000
             }
           }
         ]

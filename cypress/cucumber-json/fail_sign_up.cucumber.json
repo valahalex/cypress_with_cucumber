@@ -1,0 +1,343 @@
+[
+  {
+    "description": "    Feature This Feature is require for a user to try Sign up with bad credantials.",
+    "keyword": "Feature",
+    "name": "Sign up Feature",
+    "line": 1,
+    "id": "sign-up-feature",
+    "tags": [],
+    "uri": "fail_sign_up.feature",
+    "elements": [
+      {
+        "id": "sign-up-feature;fail-to-create-with-bad-email",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "Fail to create with bad email",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "A user open site page",
+            "result": {
+              "status": "passed",
+              "duration": 3428000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "A user clicks on green button",
+            "result": {
+              "status": "passed",
+              "duration": 791000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "A user clicks on Sing up button",
+            "result": {
+              "status": "passed",
+              "duration": 968000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "A user enter the email \"bademail@gmail\"",
+            "result": {
+              "status": "passed",
+              "duration": 4896000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "A user enter the Full name \"John Doe\"",
+            "result": {
+              "status": "passed",
+              "duration": 1638000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 11,
+            "name": "A user enter the password \"qweQWE123!@#\"",
+            "result": {
+              "status": "passed",
+              "duration": 1385000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 12,
+            "name": "A user clicks on Create account button",
+            "result": {
+              "status": "passed",
+              "duration": 391000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "A user will receive a blocked message the field Email is required",
+            "result": {
+              "status": "passed",
+              "duration": 105000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "sign-up-feature;fail-to-create-with-bad-full-name",
+        "keyword": "Scenario",
+        "line": 15,
+        "name": "Fail to create with bad full name",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 16,
+            "name": "A user open site page",
+            "result": {
+              "status": "passed",
+              "duration": 6314000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "A user clicks on Sing up button",
+            "result": {
+              "status": "passed",
+              "duration": 717000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 18,
+            "name": "A user enter the email \"good@gmail.com\"",
+            "result": {
+              "status": "passed",
+              "duration": 2824000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 19,
+            "name": "A user enter the Full name \" \"",
+            "result": {
+              "status": "passed",
+              "duration": 556000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 20,
+            "name": "A user enter the password \"qweQWE123!@#\"",
+            "result": {
+              "status": "passed",
+              "duration": 831000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "A user clicks on Create account button",
+            "result": {
+              "status": "passed",
+              "duration": 532000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "A user will receive a blocked message the field Full name is required",
+            "result": {
+              "status": "passed",
+              "duration": 72000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "sign-up-feature;fail-to-create-with-bad-password",
+        "keyword": "Scenario",
+        "line": 24,
+        "name": "Fail to create with bad password",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 25,
+            "name": "A user open site page",
+            "result": {
+              "status": "passed",
+              "duration": 4351000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 26,
+            "name": "A user clicks on Sing up button",
+            "result": {
+              "status": "passed",
+              "duration": 862000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 27,
+            "name": "A user enter the email \"good@gmail.com\"",
+            "result": {
+              "status": "passed",
+              "duration": 2904000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 28,
+            "name": "A user enter the Full name \"John Doe\"",
+            "result": {
+              "status": "passed",
+              "duration": 801000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 29,
+            "name": "A user enter the password \"password\"",
+            "result": {
+              "status": "passed",
+              "duration": 580000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 30,
+            "name": "A user clicks on Create account button",
+            "result": {
+              "status": "passed",
+              "duration": 390000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 31,
+            "name": "A user will receive a blocked message about range, number, symbol and upper-case letter",
+            "result": {
+              "status": "passed",
+              "duration": 304000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "sign-up-feature;fail-to-create-with-passed-checkbox",
+        "keyword": "Scenario",
+        "line": 33,
+        "name": "Fail to create with passed checkbox",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 34,
+            "name": "A user open site page",
+            "result": {
+              "status": "passed",
+              "duration": 6250000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 35,
+            "name": "A user clicks on Sing up button",
+            "result": {
+              "status": "passed",
+              "duration": 746000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 36,
+            "name": "A user enter the email \"good@gmail.com\"",
+            "result": {
+              "status": "passed",
+              "duration": 2955000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 37,
+            "name": "A user enter the Full name \"John Doe\"",
+            "result": {
+              "status": "passed",
+              "duration": 622000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 38,
+            "name": "A user enter the password \"qweQWE123!@#\"",
+            "result": {
+              "status": "passed",
+              "duration": 767000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 39,
+            "name": "A user clicks on Create account button",
+            "result": {
+              "status": "passed",
+              "duration": 501000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 40,
+            "name": "A user will receive a blocked message to tap checkbox is required",
+            "result": {
+              "status": "passed",
+              "duration": 89000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

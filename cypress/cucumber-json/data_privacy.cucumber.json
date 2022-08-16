@@ -1,18 +1,18 @@
 [
   {
-    "description": "    Feature User go to suport center and try search and another button",
+    "description": "    Feature User go to ti explore product by cicking button",
     "keyword": "Feature",
-    "name": "Suport center button",
+    "name": "Data and privacy link",
     "line": 1,
-    "id": "suport-center-button",
+    "id": "data-and-privacy-link",
     "tags": [],
-    "uri": "support_center.feature",
+    "uri": "data_privacy.feature",
     "elements": [
       {
-        "id": "suport-center-button;search-in-suport-center",
+        "id": "data-and-privacy-link;user-click-on-data-and-privacy-button-them-go-sub-page",
         "keyword": "Scenario",
         "line": 5,
-        "name": "Search in suport center",
+        "name": "User click on data and privacy button them go sub page",
         "tags": [],
         "type": "scenario",
         "steps": [
@@ -23,7 +23,7 @@
             "name": "A user open site page",
             "result": {
               "status": "passed",
-              "duration": 2906000000
+              "duration": 2732000000
             }
           },
           {
@@ -33,97 +33,77 @@
             "name": "A user clicks on green button",
             "result": {
               "status": "passed",
-              "duration": 727000000
+              "duration": 785000000
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
             "line": 8,
-            "name": "A user clicks on Suport center button",
+            "name": "A user clicks on data and privacy button and go to that page",
             "result": {
               "status": "passed",
-              "duration": 5356000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "line": 9,
-            "name": "A user enter in search field \"test\" and tap enter",
-            "result": {
-              "status": "passed",
-              "duration": 1898000000
+              "duration": 449000000
             }
           },
           {
             "arguments": [],
             "keyword": "Then ",
-            "line": 10,
-            "name": "A user will receive a message - search result about \"test\"",
+            "line": 9,
+            "name": "A user will go to correct page with label links-jumps to product update, faq, comlianse and data transfere",
             "result": {
               "status": "passed",
-              "duration": 60000000
+              "duration": 2589000000
             }
           }
         ]
       },
       {
-        "id": "suport-center-button;getting-started-menu-in-suport-center",
+        "id": "data-and-privacy-link;user-click-on-data-and-privacy-button-them-go-sub-page-then-click-on-link-learn-more-about-data-locality",
         "keyword": "Scenario",
-        "line": 12,
-        "name": "Getting Started menu in suport center",
+        "line": 11,
+        "name": "User click on data and privacy button them go sub page then click on link learn more about Data Locality",
         "tags": [],
         "type": "scenario",
         "steps": [
           {
             "arguments": [],
             "keyword": "Given ",
-            "line": 13,
+            "line": 12,
             "name": "A user open site page",
             "result": {
               "status": "passed",
-              "duration": 5226000000
+              "duration": 5414000000
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
-            "line": 14,
-            "name": "A user clicks on Suport center button",
+            "line": 13,
+            "name": "A user clicks on data and privacy button and go to that page",
             "result": {
               "status": "passed",
-              "duration": 3586000000
+              "duration": 389000000
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
+            "line": 14,
+            "name": "A user clicks on link Learn more to see what about DL in Mission Control Portal",
+            "result": {
+              "status": "passed",
+              "duration": 2002000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
             "line": 15,
-            "name": "A user clicks on Getting Started section",
+            "name": "A user will go to correct page with label \"Data Locality Released to General Availability\"",
             "result": {
               "status": "passed",
-              "duration": 1281000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then ",
-            "line": 16,
-            "name": "A user will see a \"Getting Started\" label",
-            "result": {
-              "status": "passed",
-              "duration": 56000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then ",
-            "line": 17,
-            "name": "A title of current page is eq \"Getting Started\"",
-            "result": {
-              "status": "passed",
-              "duration": 16000000
+              "duration": 1209000000
             }
           }
         ]

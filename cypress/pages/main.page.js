@@ -14,7 +14,7 @@ class MainPage {
     }
 
     clickOnSignUpButton() {
-        this.elements.signUpButton().click();
+        this.elements.signUpButton().click({force: true});
     }
 
     clickOnExploreProductButton() {
