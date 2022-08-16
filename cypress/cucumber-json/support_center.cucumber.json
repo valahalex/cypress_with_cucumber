@@ -1,0 +1,133 @@
+[
+  {
+    "description": "    Feature User go to suport center and try search and another button",
+    "keyword": "Feature",
+    "name": "Suport center button",
+    "line": 1,
+    "id": "suport-center-button",
+    "tags": [],
+    "uri": "support_center.feature",
+    "elements": [
+      {
+        "id": "suport-center-button;search-in-suport-center",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "Search in suport center",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "A user open site page",
+            "result": {
+              "status": "passed",
+              "duration": 3102000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "A user clicks on green button",
+            "result": {
+              "status": "passed",
+              "duration": 441000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "A user clicks on Suport center button",
+            "result": {
+              "status": "passed",
+              "duration": 6567000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "A user enter in search field \"test\" and tap enter",
+            "result": {
+              "status": "passed",
+              "duration": 1288000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "A user will receive a message - search result about \"test\"",
+            "result": {
+              "status": "passed",
+              "duration": 44000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "suport-center-button;getting-started-menu-in-suport-center",
+        "keyword": "Scenario",
+        "line": 12,
+        "name": "Getting Started menu in suport center",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 13,
+            "name": "A user open site page",
+            "result": {
+              "status": "passed",
+              "duration": 6699000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 14,
+            "name": "A user clicks on Suport center button",
+            "result": {
+              "status": "passed",
+              "duration": 2239000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 15,
+            "name": "A user clicks on Getting Started section",
+            "result": {
+              "status": "passed",
+              "duration": 1136000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "A user will see a \"Getting Started\" label",
+            "result": {
+              "status": "passed",
+              "duration": 43000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 17,
+            "name": "A title of current page is eq \"Getting Started\"",
+            "result": {
+              "status": "passed",
+              "duration": 16000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
