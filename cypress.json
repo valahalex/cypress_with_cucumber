@@ -1,5 +1,7 @@
 {
     "baseUrl":"https://telnyx.com",
     "chromeWebSecurity": false,
-    "testFiles": "**/*.feature"
+    "testFiles": "**/*.feature",
+    "viewportHeight":780,
+    "viewportWidth":1440
 }
