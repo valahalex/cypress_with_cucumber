@@ -23,7 +23,7 @@
             "name": "A user open site page",
             "result": {
               "status": "passed",
-              "duration": 3428000000
+              "duration": 4158000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "A user clicks on green button",
             "result": {
               "status": "passed",
-              "duration": 791000000
+              "duration": 361000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "A user clicks on Sing up button",
             "result": {
               "status": "passed",
-              "duration": 968000000
+              "duration": 599000000
             }
           },
           {
@@ -53,7 +53,7 @@
             "name": "A user enter the email \"bademail@gmail\"",
             "result": {
               "status": "passed",
-              "duration": 4896000000
+              "duration": 6343000000
             }
           },
           {
@@ -63,7 +63,7 @@
             "name": "A user enter the Full name \"John Doe\"",
             "result": {
               "status": "passed",
-              "duration": 1638000000
+              "duration": 1270000000
             }
           },
           {
@@ -73,7 +73,7 @@
             "name": "A user enter the password \"qweQWE123!@#\"",
             "result": {
               "status": "passed",
-              "duration": 1385000000
+              "duration": 891000000
             }
           },
           {
@@ -83,7 +83,7 @@
             "name": "A user clicks on Create account button",
             "result": {
               "status": "passed",
-              "duration": 391000000
+              "duration": 488000000
             }
           },
           {
@@ -93,7 +93,7 @@
             "name": "A user will receive a blocked message the field Email is required",
             "result": {
               "status": "passed",
-              "duration": 105000000
+              "duration": 111000000
             }
           }
         ]
@@ -113,7 +113,7 @@
             "name": "A user open site page",
             "result": {
               "status": "passed",
-              "duration": 6314000000
+              "duration": 6759000000
             }
           },
           {
@@ -123,7 +123,7 @@
             "name": "A user clicks on Sing up button",
             "result": {
               "status": "passed",
-              "duration": 717000000
+              "duration": 823000000
             }
           },
           {
@@ -133,7 +133,7 @@
             "name": "A user enter the email \"good@gmail.com\"",
             "result": {
               "status": "passed",
-              "duration": 2824000000
+              "duration": 3174000000
             }
           },
           {
@@ -143,7 +143,7 @@
             "name": "A user enter the Full name \" \"",
             "result": {
               "status": "passed",
-              "duration": 556000000
+              "duration": 524000000
             }
           },
           {
@@ -153,7 +153,7 @@
             "name": "A user enter the password \"qweQWE123!@#\"",
             "result": {
               "status": "passed",
-              "duration": 831000000
+              "duration": 984000000
             }
           },
           {
@@ -163,7 +163,7 @@
             "name": "A user clicks on Create account button",
             "result": {
               "status": "passed",
-              "duration": 532000000
+              "duration": 381000000
             }
           },
           {
@@ -173,7 +173,7 @@
             "name": "A user will receive a blocked message the field Full name is required",
             "result": {
               "status": "passed",
-              "duration": 72000000
+              "duration": 119000000
             }
           }
         ]
@@ -193,7 +193,7 @@
             "name": "A user open site page",
             "result": {
               "status": "passed",
-              "duration": 4351000000
+              "duration": 5674000000
             }
           },
           {
@@ -203,7 +203,7 @@
             "name": "A user clicks on Sing up button",
             "result": {
               "status": "passed",
-              "duration": 862000000
+              "duration": 856000000
             }
           },
           {
@@ -213,7 +213,7 @@
             "name": "A user enter the email \"good@gmail.com\"",
             "result": {
               "status": "passed",
-              "duration": 2904000000
+              "duration": 3081000000
             }
           },
           {
@@ -223,7 +223,7 @@
             "name": "A user enter the Full name \"John Doe\"",
             "result": {
               "status": "passed",
-              "duration": 801000000
+              "duration": 657000000
             }
           },
           {
@@ -233,7 +233,7 @@
             "name": "A user enter the password \"password\"",
             "result": {
               "status": "passed",
-              "duration": 580000000
+              "duration": 848000000
             }
           },
           {
@@ -243,7 +243,7 @@
             "name": "A user clicks on Create account button",
             "result": {
               "status": "passed",
-              "duration": 390000000
+              "duration": 298000000
             }
           },
           {
@@ -253,7 +253,7 @@
             "name": "A user will receive a blocked message about range, number, symbol and upper-case letter",
             "result": {
               "status": "passed",
-              "duration": 304000000
+              "duration": 390000000
             }
           }
         ]
@@ -273,7 +273,7 @@
             "name": "A user open site page",
             "result": {
               "status": "passed",
-              "duration": 6250000000
+              "duration": 6412000000
             }
           },
           {
@@ -283,7 +283,7 @@
             "name": "A user clicks on Sing up button",
             "result": {
               "status": "passed",
-              "duration": 746000000
+              "duration": 759000000
             }
           },
           {
@@ -293,7 +293,7 @@
             "name": "A user enter the email \"good@gmail.com\"",
             "result": {
               "status": "passed",
-              "duration": 2955000000
+              "duration": 3128000000
             }
           },
           {
@@ -303,7 +303,7 @@
             "name": "A user enter the Full name \"John Doe\"",
             "result": {
               "status": "passed",
-              "duration": 622000000
+              "duration": 728000000
             }
           },
           {
@@ -313,7 +313,7 @@
             "name": "A user enter the password \"qweQWE123!@#\"",
             "result": {
               "status": "passed",
-              "duration": 767000000
+              "duration": 1141000000
             }
           },
           {
@@ -323,7 +323,7 @@
             "name": "A user clicks on Create account button",
             "result": {
               "status": "passed",
-              "duration": 501000000
+              "duration": 346000000
             }
           },
           {
@@ -333,7 +333,7 @@
             "name": "A user will receive a blocked message to tap checkbox is required",
             "result": {
               "status": "passed",
-              "duration": 89000000
+              "duration": 78000000
             }
           }
         ]

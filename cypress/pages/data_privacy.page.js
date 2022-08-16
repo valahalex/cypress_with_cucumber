@@ -11,5 +11,6 @@ class DataPrivacyPage {
     clickOnLearnMoreButton() {
         this.elements.learnMoreButton().click();
     }
+    
 }
 module.exports = new DataPrivacyPage();
