@@ -12,8 +12,16 @@ Objectives set before starting the task:
 - creating a pipeline that will display that reports;
 
 # Usage
-Make clone >> https://github.com/valahalex/cypress_with_cucumber.git
-See https://github.com/valahalex/cypress_with_cucumber/blob/main/.github/workflows/main.yml
+Steps
+1. Create empty folder on local computer
+2. Open Git in the folder
+3. Make clone >> $ git clone https://github.com/valahalex/cypress_with_cucumber.git
+4. Go to folder with files >> $ cd cypress_with_cucumber
+5. Go to powershell and do >> npm i cypress@9.1.0 --save-dev
+6. Then start to run test >> npm run test
+7. After testing you need to generate the report >> npm run generate
+8. See report in ./reports/cucumber-htmlreport.html/features/index.html
+
 
 # Language
 The language for this task was Javascript.
